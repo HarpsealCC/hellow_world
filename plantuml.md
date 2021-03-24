@@ -1,0 +1,27 @@
+# PlantUml
+```plantuml
+@startmindmap
++ OS
+++ Ubuntu
++++ Linux Mint
++++ Kubuntu
++++ Lubuntu
++++ KDE Neon
+++ LMDE
+++ SolydXK
+++ SteamOS
+++ Raspbian
+-- Windows 95
+-- Windows 98
+-- Windows NT
+--- Windows 8
+--- Windows 10
+@endmindmap
+```
+
+```c++
+#include <iostream> 
+int main() {
+    std::cout << " 第一个 plantuml"  <<  std::endl;
+}
+```
